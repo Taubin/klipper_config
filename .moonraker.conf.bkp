@@ -21,10 +21,10 @@ cors_domains =
 	*://my.mainsail.xyz
 	*://app.fluidd.xyz
 
-[octoprint_compat]
-
 [file_manager]
 enable_object_processing = True
+
+[octoprint_compat]
 
 [history]
 
